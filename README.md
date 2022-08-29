@@ -1,2 +1,2 @@
 # dio-desafios-javascript-html-web-developer
-Desafios Introdução a Programação JavaScript - HTML Web Developer
+Desafios de Introdução a Programação JavaScript - HTML Web Developer
